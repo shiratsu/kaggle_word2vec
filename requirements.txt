@@ -1,6 +1,0 @@
-numpy
-scipy
-scikit-learn
-nltk
-pandas
-beautifulsoup4
